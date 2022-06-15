@@ -36,6 +36,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>cicd-github-actions-app-image-v1</finalName>
     </build>
 
 </project>
