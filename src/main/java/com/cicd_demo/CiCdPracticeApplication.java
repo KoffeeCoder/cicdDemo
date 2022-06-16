@@ -11,7 +11,7 @@ public class CiCdPracticeApplication {
 
     @GetMapping("/welcome")
     public  String welcome(){
-        return  "welcome v1";
+        return  "welcome v2";
     }
 
     public static void main(String[] args) {
